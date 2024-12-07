@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', 'Arial', sans-serif;
+  background: radial-gradient(circle, #ffefba, #ffffff);
+  color: #333333;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', monospace;
+  background: #f4f4f4;
+  color: #d6336c;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
